@@ -78,6 +78,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Data files (keep directory structure with .gitkeep)
+data/raw/*
+data/processed/*
+data/output/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/output/.gitkeep
+!data/*/README.md
+
 # IPython
 profile_default/
 ipython_config.py
