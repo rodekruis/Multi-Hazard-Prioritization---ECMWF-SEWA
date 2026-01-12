@@ -17,7 +17,7 @@ Import utilities in your notebooks:
 ```python
 import sys
 sys.path.append('../src')
-from utils import load_data, clean_data
+from utils import load_csv_data, clean_missing_values, summarize_dataframe
 ```
 
 ## Note
