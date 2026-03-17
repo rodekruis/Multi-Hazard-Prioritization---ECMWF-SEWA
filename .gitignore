@@ -165,6 +165,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Claude Code / project planning files
+CLAUDE.md
+comment_tracker.md
+implementation_plan.md
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
